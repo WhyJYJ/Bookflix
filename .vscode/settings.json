@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\yoon_\\.virtualenvs\\bookflix-nPgQ5Gun\\Scripts\\python.exe",
+  "python.formatting.provider": "black",
+  "python.linting.flake8Args": ["--max-line-length=88"]
+}
